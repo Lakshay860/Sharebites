@@ -1,0 +1,26 @@
+node_modules/
+.env
+.DS_Store
+*.log
+dist/
+build/
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+
+# Flutter generated
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+
+# IDE
+.idea/
+
+# Credentials
+*.pem
+*.key
